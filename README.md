@@ -1,6 +1,6 @@
 # ER Triage Optimization System
 
-## Problem Statement
+## The problem: basically our terrible healthcare system
 In Quebec, ER wait times often exceed **5+ hours**, particularly for non-urgent cases. While some cases may initially appear non-urgent, they can rapidly escalate without timely intervention. Overwhelmed medical staff may miss critical changes, leading to preventable tragedies.
 
 ## Our Solution
